@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4F0D96EA1E6021A0000B03A8 /* MQTTFrameWork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F0D96E61E6021A0000B03A8 /* MQTTFrameWork.framework */; };
 		4F0D96EB1E6021A0000B03A8 /* MqttManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F0D96E91E6021A0000B03A8 /* MqttManager.m */; };
 		4F29972A1D582CEC00DAD909 /* UIImage+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F2997291D582CEC00DAD909 /* UIImage+Extension.m */; };
 		4F2997661D58310900DAD909 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F2997651D58310900DAD909 /* Foundation.framework */; };
@@ -46,7 +45,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4F0D96E61E6021A0000B03A8 /* MQTTFrameWork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MQTTFrameWork.framework; sourceTree = "<group>"; };
 		4F0D96E71E6021A0000B03A8 /* MQTTKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MQTTKit.h; sourceTree = "<group>"; };
 		4F0D96E81E6021A0000B03A8 /* MqttManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MqttManager.h; sourceTree = "<group>"; };
 		4F0D96E91E6021A0000B03A8 /* MqttManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MqttManager.m; sourceTree = "<group>"; };
@@ -91,7 +89,6 @@
 				4F2997681D58312400DAD909 /* UIKit.framework in Frameworks */,
 				4F2997661D58310900DAD909 /* Foundation.framework in Frameworks */,
 				4F81F9A71E1B93010063F982 /* MQTTFrameWork.framework in Frameworks */,
-				4F0D96EA1E6021A0000B03A8 /* MQTTFrameWork.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -124,7 +121,6 @@
 		4F5649711D8015E40079C998 /* FrameWork */ = {
 			isa = PBXGroup;
 			children = (
-				4F0D96E61E6021A0000B03A8 /* MQTTFrameWork.framework */,
 				4F0D96E71E6021A0000B03A8 /* MQTTKit.h */,
 				4F0D96E81E6021A0000B03A8 /* MqttManager.h */,
 				4F0D96E91E6021A0000B03A8 /* MqttManager.m */,
