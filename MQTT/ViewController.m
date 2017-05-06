@@ -9,7 +9,6 @@
 #import "ViewController.h"
 #import "UIImage+extension.h"
 #import "MqttManager.h"
-#import "Request.h"
 
 #define SCREEN_WIDTH ([UIScreen mainScreen].bounds.size.width)
 #define SCREEN_HEIGHT ([UIScreen mainScreen].bounds.size.height)
